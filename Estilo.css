@@ -1,0 +1,26 @@
+h2{
+    color:rgb(2, 240, 220);
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid darkgray;
+}
+
+footer{
+    border-top: 1px solid darkgray;
+}
+
+#Usuario{
+    font-weight: bolder;
+}
+
+.Poder{
+    font-style: italic;
+}
